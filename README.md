@@ -13,6 +13,9 @@ This C++ project renders a 3D cube that spins using rotational matrices. The cub
 #include <iostream>
 #include <chrono>
 #include <thread>
+
+--------------------------------------------------------------------------------------------------------------------------
+
 math.h: Provides mathematical functions (e.g., sin, cos).
 stdio.h: Provides functions for input/output like printf.
 unistd.h: Used for the usleep function to control the frame rate.
