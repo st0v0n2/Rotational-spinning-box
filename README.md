@@ -113,7 +113,7 @@ Rotation: The rotation angles A and B are updated slightly on each frame, giving
 ### 6. Alternative Surface Function (calculateSurface2)
 
 ```cpp
-void calculateSurface2(float cubeX, float cubeY, float cubeZ, int ch) { ... }
+void calculateSurface2(float cubeX, float cubeY, float cubeZ, int ch) {...}
 ```
 
 ---
